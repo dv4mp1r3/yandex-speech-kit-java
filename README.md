@@ -2,7 +2,7 @@
 
 Библиотека для интеграции с сервисом речевых технологий
 
-Порт PHP-библиотеки для работы с ["Yandex SpeechKit"](https://cloud.yandex.ru/services/speechkit) вот с ["этого репозитория"](https://github.com/itpanda-llc/yandex-speechkit-php-sdk)
+Порт PHP-библиотеки для работы с ["Yandex SpeechKit"](https://cloud.yandex.ru/services/speechkit) вот с [этого репозитория](https://github.com/itpanda-llc/yandex-speechkit-php-sdk)
 
 ## Возможности
 
